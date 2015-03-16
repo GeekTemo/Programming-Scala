@@ -2,6 +2,7 @@
  * Created by gongxingfa on 15/3/14.
  */
 
+
 val john = new Man("John")
 val sara = new Woman("Sara")
 val comet = new Dog("Comet")
